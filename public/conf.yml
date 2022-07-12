@@ -23,20 +23,21 @@ appConfig:
 
 # Main content - An array of sections, each containing an array of items
 sections:
-- widgets:
+- name: Today
+  widgets:
   - type: weather 
     options:
       apiKey: 3e6c7a00bf983e68b5e2819921db0ebc
       city: Shanghai
       unints: metric
       hideDetails: false
-- widgets:
+  widgets:
   - type: joke
     options: true
       safeMode: true
       language: zh
       category: all
-- widgets:
+  widgets:
   - type: github-trending-repos
     options:
       limit: 4
@@ -61,7 +62,7 @@ sections:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/220px-Google_Drive_icon_%282020%29.svg.png
   - title: PTgen
     url: https://ptgen.husion.top
-    icon: ':popcorn:'
+    icon: generative
 - name: Cloud & Tool
   items:
   - title: Mpan
@@ -93,4 +94,3 @@ sections:
   - title: Zotero
     icon: https://commonplace.net/wp-content/uploads/2020/07/zotero.png
     url: https://www.zotero.org/husion/library
-
