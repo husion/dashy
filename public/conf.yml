@@ -3,7 +3,7 @@
 pageInfo:
   title: Husion's Hub
   description: Welcome to my home hub
-  navLinks:
+navLinks:
   - title: Documentation
     path: https://dashy.to/docs
 
@@ -80,7 +80,7 @@ sections:
   - title: Openwrt
     icon: hl-openwrt
     url: http://next.husion.top:2088
- - name: Scholar
+- name: Scholar
   items:
   - title: Sci-hub
     icon: https://imgres.crsky.com/crsky/28/135184-202205100914026279bc5a7eb58.jpg
