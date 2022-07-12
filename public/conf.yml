@@ -57,7 +57,7 @@ sections:
     url: https://sci-hub.se
   - title: Google Scholar
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png
-    url: https://scholar.google.com
+    url: https://scholar.google.com/schhp?hl=zh-CN&authuser=1
   - title: LibGen
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Libgen_logo.svg/1200px-Libgen_logo.svg.png
     url: https://libgen.is
