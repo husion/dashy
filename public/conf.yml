@@ -11,7 +11,7 @@ pageInfo:
 appConfig:
   theme: Argon
   layout: auto
-  iconSize: medium
+  iconSize: small
 
 # Main content - An array of sections, each containing an array of items
 sections:
