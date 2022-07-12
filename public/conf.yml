@@ -53,7 +53,7 @@ sections:
 - name: Scholar
   items:
   - title: Sci-hub
-    icon: https://sci-hub.se/pictures/ravenround_hs.gif
+    icon: https://imgres.crsky.com/crsky/28/135184-202205100914026279bc5a7eb58.jpg
     url: https://sci-hub.se
   - title: Google Scholar
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png
@@ -61,4 +61,7 @@ sections:
   - title: LibGen
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Libgen_logo.svg/1200px-Libgen_logo.svg.png
     url: https://libgen.is
+  - title: Zotero
+    icon: https://commonplace.net/wp-content/uploads/2020/07/zotero.png
+    url: https://www.zotero.org/husion/library
 
