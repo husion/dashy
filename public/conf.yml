@@ -30,11 +30,13 @@ sections:
       city: Shanghai
       unints: metric
       hideDetails: false
+- widgets:
   - type: joke
     options: true
       safeMode: true
       language: zh
       category: all
+- widgets:
   - type: github-trending-repos
     options:
       limit: 4
