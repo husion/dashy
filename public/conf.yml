@@ -23,7 +23,7 @@ appConfig:
 
 # Main content - An array of sections, each containing an array of items
 sections:
-- name: Today
+- name: Weather
   widgets:
   - type: weather 
     options:
@@ -31,12 +31,14 @@ sections:
       city: Shanghai
       unints: metric
       hideDetails: false
+- name: Jokes
   widgets:
   - type: joke
     options: true
       safeMode: true
       language: zh
       category: all
+- name: Github
   widgets:
   - type: github-trending-repos
     options:
