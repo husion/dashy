@@ -30,7 +30,7 @@ sections:
       apiKey: 3e6c7a00bf983e68b5e2819921db0ebc
       city: Shanghai
       unints: metric
-      hideDetails: true
+      hideDetails: false
 - name: Github
   widgets:
   - type: github-trending-repos
