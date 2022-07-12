@@ -9,35 +9,65 @@ pageInfo:
 
 # Optional app settings and configuration
 appConfig:
-  theme: Argon
+  theme: Adventure
   layout: auto
   iconSize: small
+  webSearch:
+    searchEngine: google
+    openingMethod: newtab
+    searchBangs:
+      /r: reddit
+      /w: wikipedia
+      /g: github
+      /s: https://sci-hub.se/
 
 # Main content - An array of sections, each containing an array of items
 sections:
+- widgets:
+  - type: weather 
+    options:
+      apiKey: 3e6c7a00bf983e68b5e2819921db0ebc
+      city: Shanghai
+      unints: metric
+      hideDetails: false
+  - type: joke
+    options: true
+      safeMode: true
+      language: zh
+      category: all
+  - type: github-trending-repos
+    options:
+      limit: 4
+      since: weekly
 - name: Media & Entertainment
   items:
   - title: VueTorrent
-    description: QB web service to auto download movie
     icon: hl-qbittorrent
     url: https://pt.husion.top/qbittorrent/#/
     target: newtab
   - title: Emby
-    description: Home theater
     url: https://cf.odysseyplus.site/web/index.html
     icon: hl-emby
   - title: COPS
-    description: book opds server 
     icon: hl-calibre
     url: http://next.husion.top:1088
-  - title: Home assistant
+  - title: Home assist
     url: http://next.husion.top:8123
     icon: hl-home-assistant
+  - title: GDir
+    url: https://gd.husion.top
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/220px-Google_Drive_icon_%282020%29.svg.png
+  - title: PTgen
+    url: https://ptgen.husion.top
+    icon: ':popcorn:'
 - name: Cloud & Tool
   items:
   - title: Mpan
     icon: https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png
     url: https://cloud.husion.top
+  - title: Zfile
+    icon: https://raw.githubusercontent.com/zhaojun1998/zfile/main/src/main/resources/static/logo.png
+    url: https://file.husion.top
   - title: ServerStatus
     icon: https://raw.githubusercontent.com/cokemine/nodestatus/master/web/hotaru-theme/public/favicon.ico
     url: https://status.husion.top
@@ -47,10 +77,7 @@ sections:
   - title: Openwrt
     icon: hl-openwrt
     url: http://next.husion.top:2088
-  - title: Zfile
-    icon: https://raw.githubusercontent.com/zhaojun1998/zfile/main/src/main/resources/static/logo.png
-    url: https://file.husion.top
-- name: Scholar
+ - name: Scholar
   items:
   - title: Sci-hub
     icon: https://imgres.crsky.com/crsky/28/135184-202205100914026279bc5a7eb58.jpg
