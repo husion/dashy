@@ -24,11 +24,11 @@ sections:
     target: newtab
   - title: Emby
     description: Home theater
-    url: https://cf.odysseyplus.site/web/index/html
+    url: https://cf.odysseyplus.site/web/index.html
     icon: hl-emby
   - title: COPS
     description: book opds server 
-    icon: far fa-book
+    icon: hl-calibre
     url: http://next.husion.top:1088
   - title: Home assistant
     url: http://next.husion.top:8123
