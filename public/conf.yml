@@ -69,15 +69,15 @@ sections:
   - title: Zfile
     icon: https://raw.githubusercontent.com/zhaojun1998/zfile/main/src/main/resources/static/logo.png
     url: https://file.husion.top
-  - title: ServerStatus
-    icon: https://raw.githubusercontent.com/cokemine/nodestatus/master/web/hotaru-theme/public/favicon.ico
-    url: https://status.husion.top
   - title: BitWarden
     icon: hl-bitwarden
     url: https://next.husion.top:3088
   - title: Openwrt
     icon: hl-openwrt
     url: http://next.husion.top:2088
+  - title: ServerStatus
+    icon: generative
+    url: https://status.husion.top
 - name: Scholar
   items:
   - title: Sci-hub
