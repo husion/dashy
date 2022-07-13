@@ -40,21 +40,21 @@ sections:
 - name: Media & Entertainment
   items:
   - title: VueTorrent
-    icon: hl-qbittorrent
-    url: https://pt.husion.top/qbittorrent/#/
+    icon: https://file.husion.top/s/tt0cfi
+    url: https://pt.husion.top/qbittorrent/
     target: newtab
   - title: Emby
     url: https://cf.odysseyplus.site/web/index.html
-    icon: hl-emby
+    icon: https://file.husion.top/s/40h7cj
   - title: COPS
-    icon: hl-calibre
+    icon: https://file.husion.top/s/aew7c0
     url: http://next.husion.top:1088
   - title: Home assist
     url: http://next.husion.top:8123
-    icon: hl-home-assistant
+    icon: https://file.husion.top/s/ehp37x
   - title: GDir
     url: https://gd.husion.top
-    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/220px-Google_Drive_icon_%282020%29.svg.png
+    icon: https://file.husion.top/s/lbrqx5
   - title: Goindex
     url: https://share.husion.top
     icon: generative
@@ -64,31 +64,31 @@ sections:
 - name: Cloud & Tool
   items:
   - title: Mpan
-    icon: https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png
+    icon: https://file.husion.top/s/ks6y32
     url: https://cloud.husion.top
   - title: Zfile
-    icon: https://raw.githubusercontent.com/zhaojun1998/zfile/main/src/main/resources/static/logo.png
+    icon: https://file.husion.top/s/9e1onl
     url: https://file.husion.top
   - title: ServerStatus
-    icon: https://raw.githubusercontent.com/cokemine/nodestatus/master/web/hotaru-theme/public/favicon.ico
+    icon: https://file.husion.top/s/knb740
     url: https://status.husion.top
   - title: BitWarden
-    icon: hl-bitwarden
+    icon: https://file.husion.top/s/z8cldp
     url: https://next.husion.top:3088
   - title: Openwrt
-    icon: hl-openwrt
+    icon: https://file.husion.top/s/fgu5oe
     url: http://next.husion.top:2088
 - name: Scholar
   items:
   - title: Sci-hub
-    icon: https://imgres.crsky.com/crsky/28/135184-202205100914026279bc5a7eb58.jpg
+    icon: https://file.husion.top/s/65gfye
     url: https://sci-hub.se
   - title: Google Scholar
-    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png
+    icon: https://file.husion.top/s/mdg1rn
     url: https://scholar.google.com
   - title: LibGen
-    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Libgen_logo.svg/1200px-Libgen_logo.svg.png
+    icon: https://file.husion.top/s/vuusmx
     url: https://libgen.is
   - title: Zotero
-    icon: https://commonplace.net/wp-content/uploads/2020/07/zotero.png
+    icon: https://file.husion.top/s/1xf0cr
     url: https://www.zotero.org/husion/library
