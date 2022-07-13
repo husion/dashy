@@ -40,18 +40,18 @@ sections:
 - name: Media & Entertainment
   items:
   - title: VueTorrent
-    icon: hl-qbittorrent
+    icon: https://developer.asustor.com/uploadIcons/0020_999_1570178769_qbittorrent_256.png
     url: https://pt.husion.top/qbittorrent/#/
     target: newtab
   - title: Emby
     url: https://cf.odysseyplus.site/web/index.html
-    icon: hl-emby
+    icon: https://emby.media/notificationicon.png
   - title: COPS
-    icon: hl-calibre
+    icon: https://upload.wikimedia.org/wikipedia/commons/c/cf/Calibre_logo_3.png
     url: http://next.husion.top:1088
   - title: Home assist
     url: http://next.husion.top:8123
-    icon: hl-home-assistant
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Home_Assistant_Logo.svg/1200px-Home_Assistant_Logo.svg.png
   - title: GDir
     url: https://gd.husion.top
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/220px-Google_Drive_icon_%282020%29.svg.png
@@ -70,7 +70,7 @@ sections:
     icon: https://raw.githubusercontent.com/zhaojun1998/zfile/main/src/main/resources/static/logo.png
     url: https://file.husion.top
   - title: BitWarden
-    icon: https://file.husion.top/directlink/od_mjj/Pictures/icon/bitwarden.png
+    icon: https://dashboard.snapcraft.io/site_media/appmedia/2020/07/512x512_XF6VNFl.png
     url: https://next.husion.top:3088
   - title: Openwrt
     icon: hl-openwrt
