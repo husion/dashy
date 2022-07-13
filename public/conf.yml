@@ -70,7 +70,7 @@ sections:
     icon: https://raw.githubusercontent.com/zhaojun1998/zfile/main/src/main/resources/static/logo.png
     url: https://file.husion.top
   - title: BitWarden
-    icon: hl-bitwarden
+    icon: https://file.husion.top/directlink/od_mjj/Pictures/icon/bitwarden.png
     url: https://next.husion.top:3088
   - title: Openwrt
     icon: hl-openwrt
