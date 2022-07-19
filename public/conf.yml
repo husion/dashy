@@ -39,7 +39,7 @@ sections:
       since: weekly
 - name: Media & Entertainment
   items:
-  - title: VueTorrent
+  - title: Qbittorrent
     icon: https://developer.asustor.com/uploadIcons/0020_999_1570178769_qbittorrent_256.png
     url: https://pt.husion.top/qbittorrent/#/
     target: newtab
