@@ -80,7 +80,7 @@ sections:
     url: https://status.husion.top
   - title: AliyunDrive
     icon: generative
-    url: https://next.husion.top:2333
+    url: http://next.husion.top:2333
 - name: Scholar
   items:
   - title: Sci-hub
